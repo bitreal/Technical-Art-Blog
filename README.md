@@ -1,2 +1,3 @@
 # bitreal.gihub.io
-Max's Technical Art Blog
+
+https://bitreal.github.io/Technical-Art-Blog/
