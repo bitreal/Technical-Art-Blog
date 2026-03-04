@@ -9,7 +9,7 @@ date: 2026-03-04
   Ваш браузер не поддерживает видео.
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yll0FkENTBs?si=SH_hDLbL1HKL7eVt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yll0FkENTBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Over the past few weeks, I’ve been working on a stylized ocean water shader for a mobile game, Amikin Village. I’m really happy with how the wave animation turned out, so I wanted to share the result and the core idea behind it.
 
