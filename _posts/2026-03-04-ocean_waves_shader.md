@@ -4,6 +4,11 @@ date: 2026-03-04
 ---
 # Overview
 
+<video controls width="640">
+  <source src="assets/2026-03-04-ocean_waves_shader/Movie_001.mp4" type="video/mp4">
+  Ваш браузер не поддерживает видео.
+</video>
+
 Over the past few weeks, I’ve been working on a stylized ocean water shader for a mobile game, Amikin Village. I’m really happy with how the wave animation turned out, so I wanted to share the result and the core idea behind it.
 
 In-game view:
