@@ -1,15 +1,8 @@
 ---
 title: "Stylized Ocean Waves Shader (Mobile)"
 date: 2026-03-04
-youtubeId: Yll0FkENTBs
 ---
 # Overview
-
-{% include youtubePlayer.html id=page.youtubeId %}
-
-{% include youtubePlayer.html id=Yll0FkENTBs %}
-
-{% include youtubePlayer.html id="Yll0FkENTBs" %}
 
 Over the past few weeks, I’ve been working on a stylized ocean water shader for a mobile game, Amikin Village. I’m really happy with how the wave animation turned out, so I wanted to share the result and the core idea behind it.
 
@@ -17,11 +10,17 @@ In-game view:
 
 https://github.com/user-attachments/assets/2bd97951-1d4e-4e53-a3af-516d16199b0d
 
+{% include youtubePlayer.html id="mmsIuUSONTk" %}
+
 https://github.com/user-attachments/assets/3d3ba148-fbf8-47b4-964a-d95f7a9bbfd9
+
+{% include youtubePlayer.html id="qA5nN7JzrqY" %}
 
 Top view:
 
 https://github.com/user-attachments/assets/919e172f-07ac-4e52-9690-dd4c35bb884e
+
+{% include youtubePlayer.html id="hQkNpac_pMQ" %}
 
 - Waves start at the edge of the map and move toward the center.
 - Waves are dampened when they hit obstacles (rocks, terrain, etc.).
@@ -91,6 +90,8 @@ wavePhase = frac(wavePhase);
 
 https://github.com/user-attachments/assets/202c761d-4e19-4c89-997e-04a34b035d73
 
+{% include youtubePlayer.html id="mOp2hao5M_Q" %}
+
 Then I wrap the wave phase with a ramp (1D texture) to fine-tune the wave height.
 
 Both the wave mask and the baked vertical distance to the bottom scale the wave height, damping waves behind obstacles and increasing the amplitude near the shore.
@@ -112,6 +113,8 @@ positionWS.y += heigthOffset;
 All together:
 
 https://github.com/user-attachments/assets/f4480d00-ba81-4cb3-8369-8340d93130bb
+
+{% include youtubePlayer.html id="jxFH7nah2XY" %}
 
 
 ## Wave Foam (fragment shader side)
