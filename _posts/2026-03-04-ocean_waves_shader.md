@@ -12,6 +12,21 @@ https://github.com/user-attachments/assets/2bd97951-1d4e-4e53-a3af-516d16199b0d
 
 https://github.com/user-attachments/assets/3d3ba148-fbf8-47b4-964a-d95f7a9bbfd9
 
+<video controls autoplay muted autoplay playsinline>
+  <source src="/assets/2026-03-04-ocean_waves_shader/Movie_011.mp4" type="video/mp4" />
+  <source src="https://github.com/user-attachments/assets/3d3ba148-fbf8-47b4-964a-d95f7a9bbfd9" type="video/mp4" />
+  <source src="https://media.githubusercontent.com/media/bitreal/Technical-Art-Blog/refs/heads/main/assets/2026-03-04-ocean_waves_shader/Movie_011.mp4" />
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="/assets/2026-03-04-ocean_waves_shader/Movie_011.mp4" type="video/mp4" />
+  <source src="https://github.com/user-attachments/assets/3d3ba148-fbf8-47b4-964a-d95f7a9bbfd9" type="video/mp4" />
+  <source src="https://media.githubusercontent.com/media/bitreal/Technical-Art-Blog/refs/heads/main/assets/2026-03-04-ocean_waves_shader/Movie_011.mp4" />
+</video>
+
+https://media.githubusercontent.com/media/bitreal/Technical-Art-Blog/refs/heads/main/assets/2026-03-04-ocean_waves_shader/Movie_011.mp4
+
 Top view:
 
 https://github.com/user-attachments/assets/919e172f-07ac-4e52-9690-dd4c35bb884e
