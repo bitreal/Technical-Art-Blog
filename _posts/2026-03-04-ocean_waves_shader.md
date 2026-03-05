@@ -27,11 +27,11 @@ The water is rendered by a single shader. No runtime simulations.
 
 However, several pieces of precomputed data are baked into the water surface mesh in Houdini and used in the shader:
 
-- Path distance - for wave phase
+- Wave path distance - for wave phase
 - Wave mask - for wave damping
 - Vertical distance to the bottom - for coastal wave amplification
 
-The vertex shader applies vertical displacement based on the wave phase and mask.  
+The vertex shader applies vertical displacement based on the wave phase and masks.  
 The fragment shader renders foam using the same baked data.
 
 
@@ -45,7 +45,7 @@ Then, I temporarily remove the water surface under the terrain:
 
 <img width="600" alt="img" src="https://github.com/user-attachments/assets/9032bd9f-0bb3-41bd-94ef-bc00052ccf33" />
 
-For each vertex, I compute the shortest path distance to the nearest wave start point. For example, this vertex:
+For each vertex, I compute the shortest path distance to **the nearest wave start point**. For example, this vertex:
 
 <img width="600" alt="img" src="https://github.com/user-attachments/assets/ceb06ed4-7659-4f02-bba9-102445e368cd" />
 
@@ -131,5 +131,3 @@ On top of that:
 
 
 ## Thanks for reading!
-
-Hope you found something interesting.

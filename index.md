@@ -6,7 +6,7 @@ title: Home
 
 I'm **Max Kramarov**, a technical artist with a focus on **environment tech art**, **procedural generation**, **shaders**, **custom graphical features**, and **optimizations**.  
 
-On this blog, I'll sometimes share short articles about interesting work I do.
+On this blog, I'll share short technical articles about my work that I think is worth sharing.
 
 ---
 
